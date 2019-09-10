@@ -11,7 +11,7 @@ namespace ClassLibrary7
         [Test]
         public void tcLogin()
         {
-            string url = "http://172.16.51.121/LMSPublish/Login.aspx";
+            string url = "http://172.16.51.121/WebApplicationMsois/Login.aspx";
             string Username = "admin";
             string Password = "admin@123";
             
