@@ -24,10 +24,5 @@ namespace ClassLibrary7
             //oWD.Close();
         }
 
-        [Test]
-        public void tcNewMember()
-        {
-
-        }
     }
 }
